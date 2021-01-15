@@ -1,5 +1,5 @@
 ### Hi there 👋
-- 🔭 I’m a open source developer. Welcome to my website [Uplusware](https://uplusware.github.io)
+- 🔭 I’m an open source developer. Welcome to my website [Uplusware](https://uplusware.github.io)
 
 ![erisemail](https://uplusware.github.io/images/erisemail.png)![openheap](https://uplusware.github.io/images/heaphttpd.png)![bluewhale](https://uplusware.github.io/images/bluewhale.png)![uplusftp](https://uplusware.github.io/images/uplusftpsrv.png)
 
