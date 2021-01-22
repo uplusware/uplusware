@@ -3,9 +3,9 @@
 - 🌱 Welcome to my website [Uplusware](https://uplusware.github.io)
 - 📫 How to reach me: uplusware@gmail.com
 
+<!--
 ![erisemail](https://uplusware.github.io/images/erisemail.png)![openheap](https://uplusware.github.io/images/heaphttpd.png)![bluewhale](https://uplusware.github.io/images/bluewhale.png)![uplusftp](https://uplusware.github.io/images/uplusftpsrv.png)
 
-<!--
 **uplusware/uplusware** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 ### Hi there 👋
 
