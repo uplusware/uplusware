@@ -1,5 +1,6 @@
 ### Hi there 👋
-- 🔭 I’m an open source developer. And I like programming. More information in my website [Uplusware](https://uplusware.github.io)
+- 🔭 I’m an open source developer. And I like programming.
+- 🌱 More information in my website [Uplusware](https://uplusware.github.io)
 - 📫 How to reach me: uplusware@gmail.com
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=uplusware&hide=html&layout=compact&langs_count=12)
