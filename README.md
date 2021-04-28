@@ -1,5 +1,5 @@
 ### Hi there 👋
-- 🔭 I’m an open source developer. And I like programming.
+- 🔭 I’m an open source developer.
 - 🌱 More information in my website [Uplusware](https://uplusware.github.io)
 - 📫 Reach me via sending mail to uplusware@gmail.com
 
