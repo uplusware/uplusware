@@ -22,3 +22,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+　　青青园中葵，朝露待日晞。
+　　阳春布德泽，万物生光辉。
+　　常恐秋节至，焜黄华叶衰。
+　　百川东到海，何时复西归？
+　　少壮不努力，老大徒伤悲。
