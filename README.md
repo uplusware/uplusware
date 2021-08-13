@@ -13,8 +13,8 @@
   The spring's sunshine brings up everthing, and they live well.
   But I'm often afraid of that the autumn comes.
   All the leaves turn yellow and falls at that time.
-  All the rivers flow to sea, but when will they come back?(Time is same )
-  Please value time when you are young, So you will not regret it when you are old .
+  All the rivers flow to sea, but when will they come back?
+  The time is just like the flowing rivers. Please value time when you are young, So you will not regret it when you are old .
   
 ```
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=uplusware&hide=html&layout=compact&langs_count=12)
