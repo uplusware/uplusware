@@ -1,5 +1,5 @@
 ### Hi there 👋
-- 🔭 我是一个开源开发者 / I’m an open source developer.
+- 我是一个开源开发者 / I’m an open source developer.
 - 我的个人网站 / My Personal website: http://uplusware.net
 - One of my favorite poems
 ```
