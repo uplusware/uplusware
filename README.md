@@ -1,7 +1,7 @@
 ### Hi there 👋
 - 我是一个开源开发者 / I’m an open source developer.
 - 我的个人网站 / My Personal website: http://uplusware.net
-- The poem << Changshixing>> of the han Dynasty is probably one of the earliest Chinese poems expressing a moral sense of time. It's one of my favorite poems.
+- The poem << Chang Ge Xing>> of the Han Dynasty is probably one of the earliest Chinese poems expressing a moral sense of time. It's one of my favorite poems.
 
 ```
           《长歌行》
