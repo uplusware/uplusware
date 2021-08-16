@@ -1,6 +1,6 @@
 ### Hi there 👋
 - 🔭 I’m an open source developer.
-- 我的个人网站 http://uplusware.net
+- 我的个人网站/My Personal website: http://uplusware.net
 ```
           《长歌行》
 　　青青园中葵，朝露待日晞。
