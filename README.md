@@ -1,6 +1,7 @@
 ### Hi there 👋
 - 🔭 我是一个开源开发者 / I’m an open source developer.
 - 我的个人网站 / My Personal website: http://uplusware.net
+- One of my favorite poems
 ```
           《长歌行》
 　　青青园中葵，朝露待日晞。
