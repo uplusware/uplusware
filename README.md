@@ -2,7 +2,7 @@
 - 我是一个开源开发者 / I’m an open source developer.
 - 我的个人网站 / My Personal website: http://uplusware.net
 - The poem << Changshixing>> of the han Dynasty is probably one of the earliest Chinese poems expressing a moral sense of time. It's one of my favorite poems.
-- 
+
 ```
           《长歌行》
 　　青青园中葵，朝露待日晞。
