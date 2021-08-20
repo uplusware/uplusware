@@ -15,9 +15,8 @@
 　　少壮不努力，老大徒伤悲。
   
   In the garden, the morning dew on the chinese mallow is gone after the sun rise.
-  The spring's sunshine brings up everthing, and they live well.
-  But I'm often afraid of that the autumn comes.
-  All the leaves turn yellow and falls at that time.
+  The spring's sunshine brings up everthing, and they live very well.
+  But I'm often afraid of that the autumn comes since all the leaves turn yellow and falls at that time.
   All the rivers flow to sea, but when will they come back?
   You will not regret it when you are old if value time when you are young.(A lazy youth, a lousy age.)
   
