@@ -1,7 +1,7 @@
 ### Hi there 👋
 - 我是一个开源开发者/I’m an open source developer.
 - 我的个人网站/My Personal website: http://uplusware.net
-- 《汉乐府·长歌行》是中国最早表现珍惜时间的诗歌之一， 也是我最喜欢的诗歌之一。/The poem << Chang Ge Xing>> of the Han Dynasty is probably one of the earliest Chinese poems expressing a moral sense of time. It's one of my favorite poems.
+- 汉朝《乐府诗集·长歌行》是中国最早表现珍惜时间的诗歌之一， 也是我最喜欢的诗歌之一。/The poem << Chang Ge Xing>> of the Han Dynasty is probably one of the earliest Chinese poems expressing a moral sense of time. It's one of my favorite poems.
 
 ```
           《长歌行》
@@ -16,7 +16,7 @@
   But I'm often afraid of that the autumn comes.
   All the leaves turn yellow and falls at that time.
   All the rivers flow to sea, but when will they come back?
-  The time is just like the flowing rivers. You will not regret it when you are old if value time when you are young.
+  The time is just like the flowing rivers. You will not regret it when you are old if value time when you are young.(a lazy youth,a lousy age.)
   
 ```
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=uplusware&hide=html&layout=compact&langs_count=12)
