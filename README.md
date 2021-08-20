@@ -16,7 +16,7 @@
   But I'm often afraid of that the autumn comes.
   All the leaves turn yellow and falls at that time.
   All the rivers flow to sea, but when will they come back?
-  The time is just like the flowing rivers. You will not regret it when you are old if value time when you are young.(a lazy youth,a lousy age.)
+  You will not regret it when you are old if value time when you are young.(A lazy youth, a lousy age.)
   
 ```
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=uplusware&hide=html&layout=compact&langs_count=12)
