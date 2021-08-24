@@ -1,4 +1,4 @@
-### Hi there 👋 <img src="https://gpvc.arturio.dev/uplusware" alt="profile views"/>
+### Hi there 👋
 - 我是一个开源开发者。
 - 我的个人网站 http://uplusware.net
 - 汉朝《乐府诗集·长歌行》是中国最早表现珍惜时间的诗歌之一， 也是我最喜欢的诗歌之一。
@@ -21,4 +21,5 @@
   You will not regret it when you are old if value time when you are young.(A lazy youth, a lousy age.)
   
 ```
+<img src="https://gpvc.arturio.dev/uplusware" alt="profile views"/>
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=uplusware&hide=html&layout=compact&langs_count=12)
