@@ -22,3 +22,4 @@
   
 ```
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=uplusware&hide=html&layout=compact&langs_count=12)
+<img src="https://gpvc.arturio.dev/uplusware" alt="profile views"/>
