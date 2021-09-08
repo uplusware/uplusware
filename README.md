@@ -1,10 +1,10 @@
 ### Hi there 👋
-- 我是一个开源开发者。
-- 我的个人网站 http://uplusware.net
-- 汉朝《乐府诗集·长歌行》是中国最早表现珍惜时间的诗歌之一， 也是我最喜欢的诗歌之一。
-- I’m an open source developer.
-- My personal website: http://uplusware.net
-- The poem **Chang Ge Xing** of the Han Dynasty(B.C.202 ~ D.C.220) is probably one of the earliest Chinese poems expressing a moral sense of time. It's one of my favorite poems.
+- 我是一个开源开发者 :technologist:
+- 我的个人网站 http://uplusware.net :point_left:
+- 汉朝《乐府诗集·长歌行》是中国最早表现珍惜时间的诗歌之一， 也是我最喜欢的诗歌之一 :thumbsup:
+- I’m an open source developer :technologist:
+- My personal website: http://uplusware.net :point_left:
+- The poem **Chang Ge Xing** of the Han Dynasty(B.C.202 ~ D.C.220) is probably one of the earliest Chinese poems expressing a moral sense of time. It's one of my favorite poems :thumbsup:
 
 ```
           《长歌行》
