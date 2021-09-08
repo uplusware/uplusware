@@ -1,4 +1,4 @@
-### 您好 各位👋
+### 您好👋
 - 我是一个开源开发者 :technologist:
 - 我的个人网站 http://uplusware.net :point_left:
 - 汉朝《乐府诗集·长歌行》是中国最早表现珍惜时间的诗歌之一， 也是我最喜欢的诗歌之一 :thumbsup:
