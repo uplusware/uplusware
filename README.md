@@ -11,7 +11,7 @@
 　　少壮不努力，老大徒伤悲。
   
   In the garden, the morning dew on the chinese mallow is gone after the sun rise.
-  Many thanks for the spring's sunshine since it brings up everthing, and make them live very well.
+  Many thanks for the spring's sunshine since it brings up everthing and makes them live very well.
   But I'm often afraid of that the autumn comes since all the leaves turn yellow and falls at that time.
   All the rivers flow to sea, but when will they come back?
   You will not regret it when you are old if value time when you are young.(A lazy youth, a lousy age.)
