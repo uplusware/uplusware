@@ -1,4 +1,4 @@
-## std::cout<<"<script>console.log('hello world!👋');</script>"<<endl;
+## std::cout<<"<script>console.log('👋hello world!');</script>"<<endl;
 
 My personal website: http://uplusware.net :point_left: 
 
